@@ -40,4 +40,4 @@ You can visit the website by going [here](https://jamaalbrown.me/).
 
 ## Contact
 
-Created by [@jamaalbrown](www.jamaalbrown.me) - feel free to contact me
+Created by [@jamaalbrown](www.jamaalbrown.me) - feel free to contact me.

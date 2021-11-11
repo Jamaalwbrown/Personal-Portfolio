@@ -5,7 +5,7 @@ html {
 }
 
 html,
-body {
+body {  
   height: 100%;
   color: var(--font-color);
 }
@@ -62,12 +62,14 @@ nav {
 
 .portrait {
   width: 400px;
+  max-height: 400px;
   border-radius: var(--border-radius);
   flex-shrink: 0;
 }
 
 .about-me-container {
   display: flex;
+  align-items: center;
 }
 
 .about-me-text-container {
